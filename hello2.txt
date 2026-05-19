@@ -8,7 +8,8 @@
 打開shell，輸入git clone是下載
 在shell下載了我在git上面的專案並建立在桌面上
 建立在桌面上之後，在資料夾裡面新增文字檔
-做好文字檔之後在shell輸入git up做上傳到git hub
-上傳之後輸入git push，新增至我的專案
+做好文字檔之後在shell輸入git add執行加入
+加入完了要輸入git commit -m "???"
+準備好了之後即可上傳，之後輸入git push，新增至我的專案
 
 複習完畢，新增一個文字檔再次上傳至我在git hub專案，給我的claude老師看
